@@ -1,22 +1,78 @@
-<p align="center"><img src="assets/header.svg" alt="Brook Gebreeyesus — Full-stack developer" width="100%" /></p>
-<p align="center"><a href="https://brookmulu.vercel.app/"><b>Portfolio ↗</b></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/brook-gebreeyesus"><b>LinkedIn ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/BrookMulu?tab=repositories"><b>Explore my code ↗</b></a></p>
+<p align="center"><img src="assets/header.svg" alt="Brook Gebreeyesus — Full-stack developer. Thoughtful interfaces. Reliable systems." width="100%" /></p>
 
-I'm **Brook**, a Concordia College CS graduate building usable interfaces, dependable APIs, and practical enterprise tools. **React & Angular · .NET & Spring Boot.**
+<p align="center">
+<a href="https://brookmulu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_work-75E4C4?style=for-the-badge&amp;labelColor=152234" alt="Visit my portfolio" /></a>
+<a href="https://www.linkedin.com/in/brook-gebreeyesus"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-ADA4FF?style=for-the-badge&amp;labelColor=152234" alt="Connect on LinkedIn" /></a>
+</p>
 
-### Selected work
+<br />
 
-| Project | What it does | Explore |
-| :--- | :--- | :--- |
-| **01 / Pokédex** | Search Pokémon and save a personal collection.<br /><sub>Next.js · Spring Boot · PostgreSQL · Firebase · Docker</sub> | [Frontend](https://github.com/BrookMulu/frontend-pokedex) · [Backend](https://github.com/BrookMulu/Backend-Pokedex) |
-| **02 / Brook's Financial Observatory** | Financial statements, interactive charts, filters, and CSV exports.<br /><sub>Next.js · React · REST APIs · Vercel</sub> | [Code](https://github.com/BrookMulu/brooks-financial-observatory) · [Demo](https://financial-data-filtering-app-swart.vercel.app/) |
-| **03 / Computer Science Society** | A campus club website with an integrated contact form.<br /><sub>Next.js · TypeScript · Chakra UI · EmailJS</sub> | [Code](https://github.com/BrookMulu/CSS_Website) · [Site](https://css-website-staging.vercel.app/) |
+## Hi, I'm Brook.
 
-### My toolkit
+I'm a **full-stack developer** and Concordia College computer science graduate. I build applications that make complex workflows easier to navigate, from enterprise tools and manufacturing integrations to financial dashboards and interactive web experiences.
 
-<table>
-<tr><td width="50%"><b>Frontend</b><br /><br /><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css" height="32" alt="TypeScript, JavaScript, React, Next.js, Angular, HTML, CSS" /><br /><sub>TypeScript · JavaScript · React · Next.js · Angular · HTML · CSS</sub></td><td width="50%"><b>Backend</b><br /><br /><img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs" height="32" alt="C#, .NET, Java, Spring Boot, Node.js" /><br /><sub>C# · .NET · Java · Spring Boot · Node.js · REST APIs</sub></td></tr>
-<tr><td><b>Data</b><br /><br /><img src="https://skillicons.dev/icons?i=postgres" width="32" height="32" alt="PostgreSQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="Microsoft SQL Server" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="64" height="36" alt="Oracle SQL" /><br /><sub>PostgreSQL · Microsoft SQL Server · Oracle SQL</sub></td><td><b>Delivery</b><br /><br /><img src="https://skillicons.dev/icons?i=git,docker,azure" height="32" alt="Git, Docker, Microsoft Azure" /><br /><sub>Git · Docker · Azure · Azure DevOps · CI/CD</sub></td></tr>
-</table>
+I enjoy the whole process: shaping an interface, designing an API, modeling the data, and bringing it all together.
+
+**React & Angular on the front end. .NET & Spring Boot behind the scenes.**
+
+<br />
+
+## Featured projects
+
+### 01 · Pokédex
+**Explore. Discover. Build your collection.**
+
+A full-stack Pokémon explorer with search, sorting, filtering, Google sign-in, and persistent personal collections. A Next.js interface connects to a Spring Boot API and PostgreSQL database.
+
+<img src="https://skillicons.dev/icons?i=nextjs,java,spring,postgres,firebase,docker" height="36" alt="Next.js, Java, Spring Boot, PostgreSQL, Firebase, Docker" />
+
+[**Frontend ↗**](https://github.com/BrookMulu/frontend-pokedex) &nbsp; · &nbsp; [**Backend ↗**](https://github.com/BrookMulu/Backend-Pokedex)
+
+---
+
+### 02 · Brook's Financial Observatory
+**A clearer view of company financials.**
+
+Explore annual and quarterly statements through interactive charts, company search, financial filters, and CSV exports. Server-side API integration includes caching and validation, with automated tests for financial calculations and data processing.
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,css,vercel" height="36" alt="Next.js, React, JavaScript, CSS, Vercel" />
+
+[**Live demo ↗**](https://financial-data-filtering-app-swart.vercel.app/) &nbsp; · &nbsp; [**Source code ↗**](https://github.com/BrookMulu/brooks-financial-observatory)
+
+---
+
+### 03 · Computer Science Society
+**A place for a campus community to connect.**
+
+A welcoming club website with clear navigation and an integrated contact form, built to help students discover and connect with the Computer Science Society.
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,html,css" height="36" alt="Next.js, React, TypeScript, HTML, CSS" />
+
+[**Live site ↗**](https://css-website-staging.vercel.app/) &nbsp; · &nbsp; [**Source code ↗**](https://github.com/BrookMulu/CSS_Website)
+
+<br />
+
+## Tools I work with
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css" height="42" alt="TypeScript, JavaScript, React, Next.js, Angular, HTML, CSS" />
+
+TypeScript · JavaScript · React · Next.js · Angular · HTML · CSS
+
+### Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs" height="42" alt="C#, .NET, Java, Spring Boot, Node.js" />
+
+C# · .NET · Java · Spring Boot · Node.js · REST APIs
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="PostgreSQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="46" height="46" alt="Microsoft SQL Server" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="90" height="46" alt="Oracle SQL" />
+
+PostgreSQL · Microsoft SQL Server · Oracle SQL
+
+### Cloud & delivery
+<img src="https://skillicons.dev/icons?i=git,docker,azure" height="42" alt="Git, Docker, Microsoft Azure" />
+
+Git · Docker · Microsoft Azure · Azure DevOps · CI/CD
 
 <br />
 
@@ -26,13 +82,10 @@ I'm **Brook**, a Concordia College CS graduate building usable interfaces, depen
 **Application Developer Intern · Full-stack Development**  
 January – August 2024 · Fargo, ND
 
-> Building better tools for the people behind the business.
+- Built an internal hardware lifecycle and fulfillment application to streamline employee hardware selection and IT fulfillment.
+- Modernized legacy .NET applications and supported automated releases through CI/CD and Azure.
 
-- Developed an internal hardware lifecycle and fulfillment application that streamlined employee hardware selection and IT fulfillment.
-- Modernized legacy applications from .NET 4 and .NET 6 to .NET 8.
-- Supported automated releases and cloud deployment through CI/CD and Microsoft Azure.
-
-**Built with:** Angular · TypeScript · C# / .NET · SQL Server · Azure
+**Core stack:** Angular · TypeScript · C# / .NET · SQL Server · Azure
 
 ---
 
@@ -40,13 +93,10 @@ January – August 2024 · Fargo, ND
 **Application Developer Co-op**  
 May – December 2023 · West Fargo, ND
 
-> Connecting software with real-world manufacturing workflows.
+- Developed application enhancements and integrations for reporting, data retrieval, and access controls.
+- Supported Apriso MES manufacturing workflows through automation, debugging, and performance optimization.
 
-- Delivered application enhancements and integrations spanning reporting, data retrieval, and access controls.
-- Improved Apriso MES workflows through configuration, automation, debugging, and performance optimization.
-- Collaborated through Agile and Secure SDLC processes to troubleshoot issues and support application releases.
-
-**Built with:** Angular · TypeScript · C# / .NET · Oracle SQL · Apriso MES
+**Core stack:** Angular · TypeScript · C# / .NET · Oracle SQL · Apriso MES
 
 <br />
 
@@ -56,14 +106,13 @@ May – December 2023 · West Fargo, ND
 **Bachelor of Arts in Computer Science**  
 Spring 2024 · Moorhead, MN
 
-A foundation in software engineering, algorithms, databases, operating systems, networks, and web and mobile development.
+Focused on algorithms, software engineering, databases, operating systems, networks, and web and mobile development.
 
-**Beyond the classroom**  
-Computer Science Society — Project Manager  
-ColorStack
+**Community:** Computer Science Society Project Manager · ColorStack
 
 <br />
 
 ---
 
-<p align="center"><b>Let's build something useful.</b> <a href="https://www.linkedin.com/in/brook-gebreeyesus">Let's connect ↗</a></p>
+<p align="center"><b>Good software starts with a useful idea.</b></p>
+<p align="center">Have one in mind? <a href="https://www.linkedin.com/in/brook-gebreeyesus"><b>Let's connect ↗</b></a></p>
