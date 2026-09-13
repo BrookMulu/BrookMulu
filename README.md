@@ -24,18 +24,7 @@ My experience spans internal enterprise tools, manufacturing applications, and p
 
 ### Selected work
 
-#### 01 / Brook's Financial Observatory
-**Financial data, made easier to explore.**
-
-A financial analytics dashboard with company search, annual and quarterly statements, interactive charts, financial filters, and CSV exports. Server-side API integration includes validation, caching, and error handling, with eight automated tests covering calculations, search, and data processing.
-
-`Next.js` `React` `JavaScript` `REST APIs` `Vercel`
-
-[View project ↗](https://github.com/BrookMulu/brooks-financial-observatory) · [Live demo ↗](https://financial-data-filtering-app-swart.vercel.app/)
-
----
-
-#### 02 / Pokédex
+#### 01 / Pokédex
 **A full-stack home for Pokémon discovery.**
 
 Search, sort, and filter Pokémon, sign in with Google, and save a personal collection. A Next.js interface connects to a Java Spring Boot API and PostgreSQL database, with Firebase Authentication and Docker supporting the application.
@@ -43,6 +32,17 @@ Search, sort, and filter Pokémon, sign in with Google, and save a personal coll
 `Next.js` `Java` `Spring Boot` `PostgreSQL` `Firebase` `Docker`
 
 [Frontend ↗](https://github.com/BrookMulu/frontend-pokedex) · [Backend ↗](https://github.com/BrookMulu/Backend-Pokedex)
+
+---
+
+#### 02 / Brook's Financial Observatory
+**Financial data, made easier to explore.**
+
+A financial analytics dashboard with company search, annual and quarterly statements, interactive charts, financial filters, and CSV exports. Server-side API integration includes validation, caching, and error handling, with eight automated tests covering calculations, search, and data processing.
+
+`Next.js` `React` `JavaScript` `REST APIs` `Vercel`
+
+[View project ↗](https://github.com/BrookMulu/brooks-financial-observatory) · [Live demo ↗](https://financial-data-filtering-app-swart.vercel.app/)
 
 ---
 
@@ -68,12 +68,21 @@ A club website with clear navigation and an integrated contact form, built to he
 
 ### My toolkit
 
-| | Technologies |
-| :--- | :--- |
-| **Frontend** | TypeScript · JavaScript · React · Next.js · Angular · HTML · CSS |
-| **Backend** | C# · .NET · Java · Spring Boot · Node.js · REST APIs |
-| **Data** | PostgreSQL · Microsoft SQL Server · Oracle SQL |
-| **Delivery** | Git · Docker · Microsoft Azure · Azure DevOps · CI/CD |
+#### Frontend
+<p><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css&amp;perline=7" alt="TypeScript, JavaScript, React, Next.js, Angular, HTML, CSS" /></p>
+TypeScript · JavaScript · React · Next.js · Angular · HTML · CSS
+
+#### Backend
+<p><img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs&amp;perline=7" alt="C#, .NET, Java, Spring Boot, Node.js" /></p>
+C# · .NET · Java · Spring Boot · Node.js · REST APIs
+
+#### Data
+<p><img src="https://skillicons.dev/icons?i=postgres&amp;perline=7" alt="PostgreSQL" /></p>
+PostgreSQL · Microsoft SQL Server · Oracle SQL
+
+#### Delivery
+<p><img src="https://skillicons.dev/icons?i=git,docker,azure&amp;perline=7" alt="Git, Docker, Microsoft Azure" /></p>
+Git · Docker · Microsoft Azure · Azure DevOps · CI/CD
 
 <br />
 
