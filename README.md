@@ -24,7 +24,7 @@ I enjoy the whole process: shaping an interface, designing an API, modeling the 
 
 A full-stack Pokémon explorer with search, sorting, filtering, Google sign-in, and persistent personal collections. A Next.js interface connects to a Spring Boot API and PostgreSQL database.
 
-**Technologies:** Next.js · Java · Spring Boot · PostgreSQL · Firebase · Docker
+`Next.js` `Java` `Spring Boot` `PostgreSQL` `Firebase` `Docker`
 
 [**Frontend ↗**](https://github.com/BrookMulu/frontend-pokedex) &nbsp; · &nbsp; [**Backend ↗**](https://github.com/BrookMulu/Backend-Pokedex)
 
@@ -35,7 +35,7 @@ A full-stack Pokémon explorer with search, sorting, filtering, Google sign-in, 
 
 Explore annual and quarterly statements through interactive charts, company search, financial filters, and CSV exports. Server-side API integration includes caching and validation, with automated tests for financial calculations and data processing.
 
-**Technologies:** Next.js · React · JavaScript · CSS · Vercel
+`Next.js` `React` `JavaScript` `CSS` `Vercel`
 
 [**Live demo ↗**](https://financial-data-filtering-app-swart.vercel.app/) &nbsp; · &nbsp; [**Source code ↗**](https://github.com/BrookMulu/brooks-financial-observatory)
 
@@ -46,7 +46,7 @@ Explore annual and quarterly statements through interactive charts, company sear
 
 A welcoming club website with clear navigation and an integrated contact form, built to help students discover and connect with the Computer Science Society.
 
-**Technologies:** Next.js · React · TypeScript · HTML · CSS
+`Next.js` `React` `TypeScript` `HTML` `CSS`
 
 [**Live site ↗**](https://css-website-staging.vercel.app/) &nbsp; · &nbsp; [**Source code ↗**](https://github.com/BrookMulu/CSS_Website)
 
