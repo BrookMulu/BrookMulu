@@ -18,13 +18,19 @@ I'm **Brook**, a Concordia College CS graduate building usable interfaces, depen
 <tr><td><b>Data</b><br /><br /><img src="https://skillicons.dev/icons?i=postgres" width="32" height="32" alt="PostgreSQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="Microsoft SQL Server" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="64" height="36" alt="Oracle SQL" /><br /><sub>PostgreSQL · Microsoft SQL Server · Oracle SQL</sub></td><td><b>Delivery</b><br /><br /><img src="https://skillicons.dev/icons?i=git,docker,azure" height="32" alt="Git, Docker, Microsoft Azure" /><br /><sub>Git · Docker · Azure · Azure DevOps · CI/CD</sub></td></tr>
 </table>
 
-<details>
-<summary><b>Experience & education</b></summary>
+### Experience
 
-- **Eide Bailly LLP — Application Developer Intern** · Jan–Aug 2024<br />Built hardware fulfillment tools with Angular, .NET, and MSSQL; modernized .NET applications and supported Azure delivery.
-- **Doosan Digital Innovation America — Application Developer Co-op** · May–Dec 2023<br />Enhanced Angular/.NET applications and Oracle SQL integrations; supported Apriso MES manufacturing workflows.
-- **Concordia College — B.A. in Computer Science** · Spring 2024
+**Eide Bailly LLP** · Application Developer Intern  
+<sub>Jan–Aug 2024 · Angular · .NET · SQL Server · Azure</sub>  
+Built internal hardware fulfillment tools and modernized legacy .NET applications.
 
-</details>
+**Doosan Digital Innovation America** · Application Developer Co-op  
+<sub>May–Dec 2023 · Angular · .NET · Oracle SQL · Apriso MES</sub>  
+Developed application enhancements and integrations for manufacturing workflows.
+
+### Education
+
+**Concordia College** · B.A. in Computer Science  
+<sub>Spring 2024 · Computer Science Society Project Manager · ColorStack</sub>
 
 <p align="center"><b>Let's build something useful.</b> <a href="https://www.linkedin.com/in/brook-gebreeyesus">Let's connect ↗</a></p>
