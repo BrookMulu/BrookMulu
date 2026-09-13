@@ -18,19 +18,52 @@ I'm **Brook**, a Concordia College CS graduate building usable interfaces, depen
 <tr><td><b>Data</b><br /><br /><img src="https://skillicons.dev/icons?i=postgres" width="32" height="32" alt="PostgreSQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="Microsoft SQL Server" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="64" height="36" alt="Oracle SQL" /><br /><sub>PostgreSQL · Microsoft SQL Server · Oracle SQL</sub></td><td><b>Delivery</b><br /><br /><img src="https://skillicons.dev/icons?i=git,docker,azure" height="32" alt="Git, Docker, Microsoft Azure" /><br /><sub>Git · Docker · Azure · Azure DevOps · CI/CD</sub></td></tr>
 </table>
 
-### Experience
+<br />
 
-**Eide Bailly LLP** · Application Developer Intern  
-<sub>Jan–Aug 2024 · Angular · .NET · SQL Server · Azure</sub>  
-Built internal hardware fulfillment tools and modernized legacy .NET applications.
+## Experience
 
-**Doosan Digital Innovation America** · Application Developer Co-op  
-<sub>May–Dec 2023 · Angular · .NET · Oracle SQL · Apriso MES</sub>  
-Developed application enhancements and integrations for manufacturing workflows.
+### Eide Bailly LLP
+**Application Developer Intern · Full-stack Development**  
+January – August 2024 · Fargo, ND
 
-### Education
+> Building better tools for the people behind the business.
 
-**Concordia College** · B.A. in Computer Science  
-<sub>Spring 2024 · Computer Science Society Project Manager · ColorStack</sub>
+- Developed an internal hardware lifecycle and fulfillment application that streamlined employee hardware selection and IT fulfillment.
+- Modernized legacy applications from .NET 4 and .NET 6 to .NET 8.
+- Supported automated releases and cloud deployment through CI/CD and Microsoft Azure.
+
+**Built with:** Angular · TypeScript · C# / .NET · SQL Server · Azure
+
+---
+
+### Doosan Digital Innovation America
+**Application Developer Co-op**  
+May – December 2023 · West Fargo, ND
+
+> Connecting software with real-world manufacturing workflows.
+
+- Delivered application enhancements and integrations spanning reporting, data retrieval, and access controls.
+- Improved Apriso MES workflows through configuration, automation, debugging, and performance optimization.
+- Collaborated through Agile and Secure SDLC processes to troubleshoot issues and support application releases.
+
+**Built with:** Angular · TypeScript · C# / .NET · Oracle SQL · Apriso MES
+
+<br />
+
+## Education
+
+### Concordia College
+**Bachelor of Arts in Computer Science**  
+Spring 2024 · Moorhead, MN
+
+A foundation in software engineering, algorithms, databases, operating systems, networks, and web and mobile development.
+
+**Beyond the classroom**  
+Computer Science Society — Project Manager  
+ColorStack
+
+<br />
+
+---
 
 <p align="center"><b>Let's build something useful.</b> <a href="https://www.linkedin.com/in/brook-gebreeyesus">Let's connect ↗</a></p>
